@@ -1,0 +1,57 @@
+.ss
+{
+    margin-left: 30px;
+    color: blue;
+}
+.example-icon {
+    padding: 0 14px;
+  }
+  
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .example-card {
+    max-width: 200px;
+    margin: 10px;
+  }
+  .example-header-image{
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover; 
+  }
+.header-imageA {
+   // src: "../../../assets/amazonIcon.png";
+   
+    background-image:url(../../../assets/smallAmazonIcon.png);
+    background-size: cover;
+  }
+  .header-imageF {
+    // src: "../../../assets/amazonIcon.png";
+    
+     background-image:url(../../../assets/SmallFlipkartIcon.png);
+     background-size: cover;
+   }
+   .header-imageM {
+    // src: "../../../assets/amazonIcon.png";
+    
+     background-image:url(../../../assets/MyntraSmall.png);
+     background-size: cover;
+   }
+   .header-imageP {
+    // src: "../../../assets/amazonIcon.png";
+    
+     background-image:url(../../../assets/SmallPaytmIcon.png);
+     background-size: cover;
+   }
+   .header-imageNy {
+    // src: "../../../assets/amazonIcon.png";
+    
+     background-image:url(../../../assets/NykaaSmall.png);
+     background-size: cover;
+   }
+   .header-imageBMS {
+    // src: "../../../assets/amazonIcon.png";
+    
+     background-image:url(../../../assets/Bookmyshow.png);
+     background-size: cover;
+   }
+
